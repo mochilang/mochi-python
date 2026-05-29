@@ -1,0 +1,15 @@
+# Go build artefacts
+/bin/
+*.exe
+*.test
+*.out
+coverage.txt
+coverage.html
+
+# IDE
+.idea/
+.vscode/
+
+# OS noise
+.DS_Store
+Thumbs.db
