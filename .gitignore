@@ -2,9 +2,9 @@
 /bin/
 *.exe
 *.test
-*.out
 coverage.txt
 coverage.html
+coverage.out
 
 # IDE
 .idea/
